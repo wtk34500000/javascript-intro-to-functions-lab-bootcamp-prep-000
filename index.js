@@ -17,3 +17,8 @@ function logWhisper(string)
 {
   console.log(string.toLowerCase()) 
 }
+
+function sayr(string)
+{
+  console.log(string.toLowerCase()) 
+}
